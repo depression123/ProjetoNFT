@@ -4,7 +4,7 @@ Criando um NFT (Token Não Fungível) e comercializando
 
  ## Imagens do Projeto
 
-[Visualizar Imagem do Projeto]
+[Visualizar Imagem do Projeto](https://github.com/depression123/ProjetoNFT/blob/main/_heavy_metal_NFT.png)
 
 
 ## Instruções
